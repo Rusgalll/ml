@@ -5,7 +5,8 @@ pip install numpy
 pip install pandas
 pip install matplotlib
 pip install scikit-learn
-  ```
+pip install mlxtend
+```
 ## Информаця
 ### Ресурс
 https://se.moevm.info/doku.php/courses:ml
