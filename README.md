@@ -1,10 +1,10 @@
 # Сдача лабораторных работ по машинному обучению
 ## Необходимые зависимости для лаб. работ
 ```
-  pip install numpy
-  pip install pandas
-  pip install matplotlib
-  pip install scikit-learn
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
   ```
 ## Темы
 Лабораторная работа №1 - Предобработка данных<br/>
