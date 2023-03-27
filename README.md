@@ -21,4 +21,4 @@ https://se.moevm.info/doku.php/courses:ml
 Лабораторная работа №8 - Классификация - линейный дискриминантный анализ, метод опорных векторов<br/>
 ### Ссылки на датасеты
 [Лабораторная работа №1](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data "Heart Failure Prediction dataset")<br/>
-[Лабораторная работа №2](https://www.kaggle.com/datasets/uciml/glass "Glass Classification")
+<a href="https://www.kaggle.com/datasets/uciml/glass" target="_blank">Лабораторная работа №1</a>
