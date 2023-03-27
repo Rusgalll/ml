@@ -19,5 +19,5 @@ https://se.moevm.info/doku.php/courses:ml
 [Лабораторная работа №6 - Кластеризация - DBSCAN, OPTICS](lab6)<br/>
 Лабораторная работа №7 - Классификация - Байесовские методы, решающие деревья<br/>
 Лабораторная работа №8 - Классификация - линейный дискриминантный анализ, метод опорных векторов<br/>
-### Датасеты
+### Ссылки на датасеты
 [Лабораторная работа №1](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data "Heart Failure Prediction dataset")
