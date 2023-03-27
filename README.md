@@ -27,4 +27,7 @@ https://se.moevm.info/doku.php/courses:ml
 [Лабораторная работа №5](https://archive.ics.uci.edu/ml/datasets/iris "Iris Data Set")<br/>
 [Лабораторная работа №6](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata "Credit Card Dataset for Clustering")<br/>
 [Лабораторная работа №7](https://archive.ics.uci.edu/ml/datasets/iris "Iris Data Set")<br/>
-[Лабораторная работа №8](https://archive.ics.uci.edu/ml/datasets/iris "Iris Data Set")
+[Лабораторная работа №8](https://archive.ics.uci.edu/ml/datasets/iris "Iris Data Set")<br/>
+
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
