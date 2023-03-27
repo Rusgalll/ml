@@ -22,3 +22,4 @@ https://se.moevm.info/doku.php/courses:ml
 ### Ссылки на датасеты
 [Лабораторная работа №1](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data "Heart Failure Prediction dataset")<br/>
 <a href="https://www.kaggle.com/datasets/uciml/glass" target="_blank">Лабораторная работа №1</a>
+[Лабораторная работа №2](https://www.kaggle.com/datasets/uciml/glass "Glass Classification")<br/>
